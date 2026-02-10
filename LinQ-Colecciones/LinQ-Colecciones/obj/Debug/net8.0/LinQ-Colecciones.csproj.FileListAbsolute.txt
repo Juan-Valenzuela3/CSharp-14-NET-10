@@ -1,0 +1,15 @@
+/home/farid/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/bin/Debug/net8.0/LinQ-Colecciones
+/home/farid/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/bin/Debug/net8.0/LinQ-Colecciones.deps.json
+/home/farid/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/bin/Debug/net8.0/LinQ-Colecciones.runtimeconfig.json
+/home/farid/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/bin/Debug/net8.0/LinQ-Colecciones.dll
+/home/farid/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/bin/Debug/net8.0/LinQ-Colecciones.pdb
+/home/farid/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/obj/Debug/net8.0/LinQ-Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+/home/farid/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/obj/Debug/net8.0/LinQ-Colecciones.AssemblyInfoInputs.cache
+/home/farid/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/obj/Debug/net8.0/LinQ-Colecciones.AssemblyInfo.cs
+/home/farid/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/obj/Debug/net8.0/LinQ-Colecciones.csproj.CoreCompileInputs.cache
+/home/farid/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/obj/Debug/net8.0/LinQ-Colecciones.sourcelink.json
+/home/farid/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/obj/Debug/net8.0/LinQ-Colecciones.dll
+/home/farid/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/obj/Debug/net8.0/refint/LinQ-Colecciones.dll
+/home/farid/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/obj/Debug/net8.0/LinQ-Colecciones.pdb
+/home/farid/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/obj/Debug/net8.0/LinQ-Colecciones.genruntimeconfig.cache
+/home/farid/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/obj/Debug/net8.0/ref/LinQ-Colecciones.dll
