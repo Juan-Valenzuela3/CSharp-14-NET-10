@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinQ-Colecciones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bed2e6d1165360aa5197bcc329405af0393182f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0424282a556b7ae639f7c257d74c99eaae693944")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinQ-Colecciones")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinQ-Colecciones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
