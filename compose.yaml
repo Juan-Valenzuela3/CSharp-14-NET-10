@@ -1,0 +1,7 @@
+
+services:
+  linqcolecciones:
+    image: linqcolecciones
+    build:
+      context: .
+      dockerfile: LinQ-Colecciones/LinQ-Colecciones/Dockerfile

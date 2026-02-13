@@ -10,6 +10,26 @@ using LinQ_Colecciones.Examples.LinQ;
 // SELECTOR DE EJEMPLOS - C# 14 / .NET 10
 // ============================================================================
 
+// Permitir depuración directa de ejemplos específicos
+if (args.Length > 0)
+{
+    switch (args[0].ToLowerInvariant())
+    {
+        case "joins":
+            Console.WriteLine("\n╔══════════════════════════════════════════════════════════════╗");
+            Console.WriteLine("║         🔍 DEBUG: JOINS EXAMPLES                             ║");
+            Console.WriteLine("╚══════════════════════════════════════════════════════════════╝\n");
+            await JoinsExample.Run();
+            return;
+        case "lab":
+            await EjecutarLaboratorioSQL();
+            return;
+        default:
+            Console.WriteLine($"❌ Argumento desconocido: {args[0]}");
+            break;
+    }
+}
+
 Console.WriteLine("\n╔══════════════════════════════════════════════════════════════╗");
 Console.WriteLine("║         🚀 EJEMPLOS: C# 14 - COLECCIONES Y LINQ             ║");
 Console.WriteLine("╚══════════════════════════════════════════════════════════════╝\n");
