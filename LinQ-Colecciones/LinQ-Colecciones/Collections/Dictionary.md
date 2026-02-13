@@ -1,0 +1,1 @@
+2. Dictionary<TKey, TValue> (El primo hermano del HashSet)Si el HashSet es para saber si algo existe, el Dictionary es para encontrar un valor asociado a una clave de forma instantánea ($O(1)$).Uso masivo: Ideal para "cachés" en memoria donde guardas objetos complejos indexados por un ID.
