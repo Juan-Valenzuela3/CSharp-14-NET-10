@@ -28,3 +28,4 @@ var listaOptimizada = new List<int>(1_000_000);
 - Datos: homogéneos
 - Propósito: almacenar y organizar muchos datos
 - Pesados
+

@@ -2587,25 +2587,24 @@
     ]
   },
   "packageFolders": {
-    "/home/farid/.nuget/packages/": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/farid/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/LinQ-Colecciones.csproj",
+      "projectUniqueName": "/workspaces/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/LinQ-Colecciones.csproj",
       "projectName": "LinQ-Colecciones",
-      "projectPath": "/home/farid/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/LinQ-Colecciones.csproj",
-      "packagesPath": "/home/farid/.nuget/packages/",
-      "outputPath": "/home/farid/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/obj/",
+      "projectPath": "/workspaces/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/LinQ-Colecciones.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/CSharp-14-NET-10/LinQ-Colecciones/LinQ-Colecciones/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/farid/.nuget/NuGet/NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2659,7 +2658,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
